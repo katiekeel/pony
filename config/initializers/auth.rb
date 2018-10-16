@@ -1,0 +1,1 @@
+AUTH = {"katie" => "katie", "adam" => "adam"}

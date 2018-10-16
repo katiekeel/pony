@@ -1,0 +1,3 @@
+class Inventory < Guitar
+
+end

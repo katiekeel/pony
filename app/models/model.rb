@@ -1,0 +1,3 @@
+class Model < Guitar
+
+end
